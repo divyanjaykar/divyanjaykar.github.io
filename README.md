@@ -1,2 +1,2 @@
-# divyanjaykar.github.io
+ divyanjaykar
 My Portfolio
